@@ -1,0 +1,15 @@
+
+Historial Data Insights and Solutions(only one user present in this dataset):
+    - The student should focus on human reproduction more, take more quizes, do more revision because only one quiz is taken on this topic.
+    
+    - quizes and exams are not taken for most of the topics in a span of 40 days. (again taking more quizes is recommended)
+
+    - percentages are dropping continuously for topics "body fuilds and circulation" and "reproductive health". reason could be the student has gotten overconfident as in the beginning he scored well.
+
+    - reproductive health is a topic in which this student is better than average as he takes less time and achieves more accuracy.
+
+    - only one quiz is taken on "microbes in human welfare" and the performance is fantastic, so this topic could be skipped and more focus can be on other topics.
+
+Student Persona:
+    - the sudent may be unmotivated and lazy, becomes overconfident easily. a reward system could be benificial or gamifying the process of learning. 
+    - the student performs well in subjects of his liking like "microbes in human welfare".
